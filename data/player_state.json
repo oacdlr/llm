@@ -1,0 +1,15 @@
+{
+  "name": "Aelan",
+  "hp": 20,
+  "max_hp": 20,
+  "strength": 5,
+  "intelligence": 5,
+  "gold": 10,
+  "inventory": [
+    "Torch",
+    "Rations x3",
+    "Wolf Pelt"
+  ],
+  "level": 1,
+  "xp": 60
+}

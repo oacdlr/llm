@@ -1,0 +1,14 @@
+{
+  "location": "The Deeper Chambers",
+  "region_description": "Las C\u00e1maras M\u00e1s Profundas est\u00e1n impregnadas de un aire a\u00fan m\u00e1s viciado, haciendo que cada inhalaci\u00f3n se sienta como una condena.",
+  "active_quest": null,
+  "known_npcs": [],
+  "tension": 3.5000000000000004,
+  "turn_count": 8,
+  "visited_locations": [
+    "The Broken Flagon Inn, Ashenveil",
+    "The Dark Depths",
+    "The Deeper Chambers"
+  ],
+  "world_flags": {}
+}
