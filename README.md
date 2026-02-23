@@ -40,6 +40,7 @@ pip install openai
 setx OPENAI_API_KEY "sk-your-key-here"
 python main.py
 ```
+tambien se puede cambiar directamente desde el archivo main.py
 
 Nuevo juego:
 ```bash
@@ -80,7 +81,3 @@ ENEMY_TEMPLATES["dragon"] = make_enemy(
     xp_reward=500, gold_reward=200, loot=["Escama de Dragón"]
 )
 ```
-
-**Agregar una nueva ubicación** — llamar a `world.move_to()` desde el engine, o permitir que la IA la indique mediante `new_location` en su respuesta JSON.
-
-**Agregar habilidades de jugador** — añadir métodos a la clase `Player` y gestionarlos en `engine.py`.
